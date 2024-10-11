@@ -2,6 +2,8 @@ package com.example.project1
 
 fun main(){
 
+    //ini tyoe data char//
+
     //byte
     val byteValue: Byte = 10
     println("Byte: $byteValue")
